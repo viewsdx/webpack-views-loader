@@ -1,0 +1,16 @@
+{
+  "name": "views-loader",
+  "version": "0.0.1",
+  "description": "Views (viewsdx.com) language morpher's webpack loader",
+  "main": "index.js",
+  "author": "Darío Javier Cravero <dario@uxtemple.com>",
+  "license": "BSD-Clause-3",
+  "dependencies": {
+    "gaze": "^1.1.2",
+    "globule": "^1.1.0",
+    "loader-utils": "^1.1.0",
+    "to-pascal-case": "^1.0.0",
+    "views-morph": "^0.0.2"
+  },
+  "scripts": {}
+}
